@@ -1,0 +1,15 @@
+bin
+obj
+*.suo
+*.user
+.vscode
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/repositories.config
+
+.vs
+db.sqlite3
+logs
+

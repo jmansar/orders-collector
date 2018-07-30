@@ -1,0 +1,2 @@
+alter table OrderItems
+add AuditInfo_InvokedByName text null
