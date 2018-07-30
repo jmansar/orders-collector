@@ -1,5 +1,7 @@
 # Orders Collector
 
+[![Build status](https://jmansar.visualstudio.com/Orders%20Collector/_apis/build/status/1?branch=master)](https://jmansar.visualstudio.com/Orders%20Collector/_build/latest?definitionId=1&branch=master)
+
 Orders Collector is a simple Skype bot that facilitates the process of organizing office lunches by co-workers.
 The bot reads lunch orders posted by users on a designated channel, groups orders by restaurant and presents them in a structured form.
 
