@@ -16,7 +16,7 @@ Stack:
 
 -   .NET Core 2.1
 -   SQLite
--   Entity Framework Core 2.0
+-   Entity Framework Core 2.1
 -   [BotBuilder.Standard](https://github.com/CXuesong/BotBuilder.Standard/wiki) - An unofficial CoreCLR targeted .NET Standard ported version of BotBuilder.
 
 ### Development
