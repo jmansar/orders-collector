@@ -14,7 +14,7 @@ The bot is ASP.NET MVC Core application which exposes bot API endpoint consumed 
 
 Stack:
 
--   .NET Core 2.0
+-   .NET Core 2.1
 -   SQLite
 -   Entity Framework Core 2.0
 -   [BotBuilder.Standard](https://github.com/CXuesong/BotBuilder.Standard/wiki) - An unofficial CoreCLR targeted .NET Standard ported version of BotBuilder.
@@ -23,7 +23,7 @@ Stack:
 
 #### Prerequisites
 
--   .NET Core 2.0 SDK
+-   .NET Core 2.1 SDK
 
 #### Build
 
